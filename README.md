@@ -1,49 +1,82 @@
-# Hi, I'm Khaled 👋
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/engineering-lab.png">
+  <img src="assets/engineering-lab.gif" width="1200" alt="Khaled Alrefai, Computer Engineer. DDDS: perception and edge AI. GSwitcher: systems and verification. NIBRAS: architecture and trust.">
+</picture>
 
-I'm a Computer Engineering graduate who likes getting to the bottom of things.
+<p align="center">
+  <a href="https://www.linkedin.com/in/khaled-alrefai-668079273/">LinkedIn ↗</a> &nbsp; · &nbsp;
+  <a href="https://github.com/Kaldx5?tab=repositories">Projects ↗</a> &nbsp; · &nbsp;
+  <a href="https://kaldx5.github.io/NIBRAS-Showcase/">NIBRAS visual gallery ↗</a>
+</p>
 
-Most of my projects start with a problem I want to understand. That usually sends me into a subject I haven't worked with deeply before. I read, experiment, question what I'm seeing, and keep going until I can build something useful with it.
+## Hi, I'm Khaled 👋
+
+I'm a Computer Engineering graduate who likes getting to the bottom of things. Most of my projects start with a problem I want to understand. I read, experiment, question what I'm seeing, and keep going until I can build something useful with it.
 
 That has taken me from computer vision and TinyML to Windows power management, hardware behavior, market intelligence, and product design. I enjoy moving between these fields and finding connections I can actually use. 🧠
 
-## What I've been building 🛠️
+## Three projects, different constraints 🛠️
 
-**[GSwitcher](https://github.com/Kaldx5/GSwitcher)**
+[![GSwitcher: local Windows systems utility, with a real application screenshot](assets/gswitcher-card.png)](https://github.com/Kaldx5/GSwitcher)
 
-This started with my Dell G16 running hotter and more aggressively than I expected during everyday use. Manual power tuning became PowerShell scripts, then a small menu, and eventually a desktop application. The repository shares the source and the decisions behind it.
+**From a hot laptop to a systems project.** Manual power tuning became PowerShell scripts, then a menu, and eventually a desktop application. Local controls, diagnostics and recovery, with GPU-route observation and investigation kept distinct from reliable switching.
 
-**[DDDS: Driver Drowsiness Detection System](https://github.com/Kaldx5/DDDS)**
+[Explore source](https://github.com/Kaldx5/GSwitcher/tree/main/source/GSwitcher.Desktop) · [Read the engineering decisions](https://github.com/Kaldx5/GSwitcher)
 
-My university graduation project, bringing together computer vision, TinyML, and real-time driver monitoring. Developed and presented at Istanbul Okan University, with a final grade of **AA**. The [acceptance test report](https://github.com/Kaldx5/DDDS-Acceptance-Test-Report) is also public.
+[![DDDS: driver drowsiness detection, showing a project capture](assets/ddds-card.png)](https://github.com/Kaldx5/DDDS)
 
-**[NIBRAS / نِبراس](https://github.com/Kaldx5/NIBRAS-Showcase)**
+**Perception under real-time constraints.** My graduation project combines computer vision, driver monitoring and TinyML exploration. Developed and presented at Istanbul Okan University, with a final grade of **AA**.
 
-A different problem that pulled me into another world: local market information, unreliable connectivity, and trust in the data. I'm developing the project around those constraints, alongside its maps and Arabic interface. The public showcase is a small glimpse into the depth and scale of the wider project, which remains private. 🌍
+[Explore DDDS](https://github.com/Kaldx5/DDDS) · [Public acceptance test report](https://github.com/Kaldx5/DDDS-Acceptance-Test-Report)
 
-[View real-device captures](https://kaldx5.github.io/NIBRAS-Showcase/) · [Explore selected design screens](https://kaldx5.github.io/NIBRAS-Showcase/design/)
+[![NIBRAS: market information, connectivity and trust, showing an Arabic real-device capture](assets/nibras-card.png)](https://github.com/Kaldx5/NIBRAS-Showcase)
 
-<img src="https://raw.githubusercontent.com/Kaldx5/NIBRAS-Showcase/main/assets/05_dashboard_dark.jpeg" width="180" alt="NIBRAS real-device dashboard"> <img src="https://raw.githubusercontent.com/Kaldx5/NIBRAS-Showcase/main/assets/10_atlas_map_daraa.jpeg" width="180" alt="NIBRAS real-device atlas">
+**Useful information when connectivity is unreliable.** Local market information, trust in the data, maps and an Arabic interface. The public showcase is a small glimpse into the wider project, which remains private and in development. 🌍
 
-## How I approach a project 🔍
+[Real-device gallery](https://kaldx5.github.io/NIBRAS-Showcase/) · [Selected design studies](https://kaldx5.github.io/NIBRAS-Showcase/design/) · [Project guide](https://github.com/Kaldx5/NIBRAS-Showcase/blob/main/docs/NIBRAS-Public-Showcase.pdf)
 
-Understand the problem. Learn what I don't know. Try an idea. Look closely at the result. Improve it and repeat.
+<details>
+<summary>More of NIBRAS, in pictures</summary>
 
-I take an active role in the research, planning, design, implementation, and review of my projects. I'm comfortable using AI and coding tools, and bring them in when they help me explore an idea, speed up a task, or work through a difficult part. The decisions still need to make sense to me.
+Selected design studies alongside the real-device captures. The design studies contain demonstration data.
+
+[<img src="https://raw.githubusercontent.com/Kaldx5/NIBRAS-Showcase/main/assets/design/offline.png" width="260" alt="NIBRAS offline design study with demonstration data">](https://kaldx5.github.io/NIBRAS-Showcase/design/screens/offline.html)
+[<img src="https://raw.githubusercontent.com/Kaldx5/NIBRAS-Showcase/main/assets/design/trust_transparency.png" width="260" alt="NIBRAS trust design study with demonstration data">](https://kaldx5.github.io/NIBRAS-Showcase/design/screens/trust_transparency.html)
+
+[Explore all eight studies](https://kaldx5.github.io/NIBRAS-Showcase/design/)
+
+</details>
+
+## How I work 🔍
+
+![My engineering loop: understand the problem, experiment, verify the result, improve and repeat](assets/engineering-loop.png)
 
 I like work that gives me something worth digging into and a chance to turn that understanding into a useful result.
 
-**Currently interested in:** Applied AI, Computer Vision, TinyML / Edge AI, agentic systems, hardware/software integration, and exploring quantum computing. ⚙️
+<details>
+<summary>A little more about my process</summary>
 
-[Find me on LinkedIn](https://www.linkedin.com/in/khaled-alrefai-668079273/) · [Browse my projects](https://github.com/Kaldx5?tab=repositories)
-## Quick routes 📂
+I take an active role in the research, planning, design, implementation, and review of my projects. I'm comfortable using AI and coding tools, and bring them in when they help me explore an idea, speed up a task, or work through a difficult part. The decisions still need to make sense to me.
 
-[GSwitcher source](https://github.com/Kaldx5/GSwitcher/tree/main/source/GSwitcher.Desktop) · [DDDS](https://github.com/Kaldx5/DDDS) · [NIBRAS showcase](https://github.com/Kaldx5/NIBRAS-Showcase) · [NIBRAS visual gallery](https://kaldx5.github.io/NIBRAS-Showcase/)
+</details>
 
+## What draws my curiosity ⚙️
 
-### More of NIBRAS, in pictures
+![Interests: Applied AI, computer vision and edge AI; systems, hardware/software integration and R&D; exploring agentic systems and quantum computing](assets/interest-map.png)
 
-Selected design studies alongside the real-device captures. These contain demonstration data.
+**Applied AI · Computer Vision · TinyML / Edge AI · Systems R&D · Hardware/software integration**
 
-[<img src="https://raw.githubusercontent.com/Kaldx5/NIBRAS-Showcase/main/assets/design/offline.png" width="180" alt="Offline design study">](https://kaldx5.github.io/NIBRAS-Showcase/design/screens/offline.html) [<img src="https://raw.githubusercontent.com/Kaldx5/NIBRAS-Showcase/main/assets/design/trust_transparency.png" width="180" alt="Trust design study">](https://kaldx5.github.io/NIBRAS-Showcase/design/screens/trust_transparency.html) 
+Also exploring **agentic systems** and **quantum computing**. These are interests I'm developing, alongside the work shown above.
 
-[All eight studies](https://kaldx5.github.io/NIBRAS-Showcase/design/) · [Public project guide](https://github.com/Kaldx5/NIBRAS-Showcase/blob/main/docs/NIBRAS-Public-Showcase.pdf)
+<details>
+<summary>Tools used across these projects</summary>
+
+| Project | Selected technologies and interfaces |
+| :--- | :--- |
+| DDDS | Python, OpenCV, MediaPipe; TensorFlow Lite / edge-AI exploration |
+| GSwitcher | C#, WPF, PowerShell, WebView2, Windows APIs, WMI |
+| NIBRAS | Flutter / Dart, Python / FastAPI, SQLite; offline-first system design |
+
+These describe the projects' technology stacks, rather than a proficiency score for every tool.
+
+</details>
