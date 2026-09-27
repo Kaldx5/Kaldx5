@@ -38,3 +38,12 @@ I like work that gives me something worth digging into and a chance to turn that
 ## Quick routes 📂
 
 [GSwitcher source](https://github.com/Kaldx5/GSwitcher/tree/main/source/GSwitcher.Desktop) · [DDDS](https://github.com/Kaldx5/DDDS) · [NIBRAS showcase](https://github.com/Kaldx5/NIBRAS-Showcase) · [NIBRAS visual gallery](https://kaldx5.github.io/NIBRAS-Showcase/)
+
+
+### More of NIBRAS, in pictures
+
+Selected design studies alongside the real-device captures. These contain demonstration data.
+
+[<img src="https://raw.githubusercontent.com/Kaldx5/NIBRAS-Showcase/main/assets/design/offline.png" width="180" alt="Offline design study">](https://kaldx5.github.io/NIBRAS-Showcase/design/screens/offline.html) [<img src="https://raw.githubusercontent.com/Kaldx5/NIBRAS-Showcase/main/assets/design/trust_transparency.png" width="180" alt="Trust design study">](https://kaldx5.github.io/NIBRAS-Showcase/design/screens/trust_transparency.html) 
+
+[All eight studies](https://kaldx5.github.io/NIBRAS-Showcase/design/) · [Public project guide](https://github.com/Kaldx5/NIBRAS-Showcase/blob/main/docs/NIBRAS-Public-Showcase.pdf)
