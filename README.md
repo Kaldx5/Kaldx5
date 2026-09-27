@@ -1,82 +1,69 @@
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/engineering-lab.png">
-  <img src="assets/engineering-lab.gif" width="1200" alt="Khaled Alrefai, Computer Engineer. DDDS: perception and edge AI. GSwitcher: systems and verification. NIBRAS: architecture and trust.">
-</picture>
+<picture><source media="(prefers-reduced-motion: reduce) and (max-width: 650px)" srcset="assets/ember/hero.mobile.static.svg"><source media="(max-width: 650px)" srcset="assets/ember/hero.mobile.svg"><source media="(prefers-reduced-motion: reduce)" srcset="assets/ember/hero.static.svg"><img src="assets/ember/hero.svg" width="1200" alt="Khaled Alrefai, Computer Engineer. Perceive through DDDS, verify through GSwitcher, architect through NIBRAS."></picture>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/khaled-alrefai-668079273/">LinkedIn ↗</a> &nbsp; · &nbsp;
-  <a href="https://github.com/Kaldx5?tab=repositories">Projects ↗</a> &nbsp; · &nbsp;
-  <a href="https://kaldx5.github.io/NIBRAS-Showcase/">NIBRAS visual gallery ↗</a>
-</p>
+I'm Khaled, a Computer Engineer who likes understanding what is happening beneath the surface. I start with a real problem, research it, test possible explanations, and refine the result when the evidence changes. My work connects computer vision, Windows systems, hardware behavior, and offline-first architecture.
 
-## Hi, I'm Khaled 👋
+[LinkedIn](https://www.linkedin.com/in/khaled-alrefai-668079273/) · [Engineering work](https://github.com/Kaldx5?tab=repositories)
 
-I'm a Computer Engineering graduate who likes getting to the bottom of things. Most of my projects start with a problem I want to understand. I read, experiment, question what I'm seeing, and keep going until I can build something useful with it.
+## From perception to control to architecture
 
-That has taken me from computer vision and TinyML to Windows power management, hardware behavior, market intelligence, and product design. I enjoy moving between these fields and finding connections I can actually use. 🧠
+<picture><source media="(prefers-reduced-motion: reduce) and (max-width: 650px)" srcset="assets/ember/trajectory.mobile.static.svg"><source media="(max-width: 650px)" srcset="assets/ember/trajectory.mobile.svg"><source media="(prefers-reduced-motion: reduce)" srcset="assets/ember/trajectory.static.svg"><img src="assets/ember/trajectory.svg" width="1200" alt="Career trajectory: DDDS perception, GSwitcher systems verification, NIBRAS architecture and trust; future directions exploratory."></picture>
 
-## Three projects, different constraints 🛠️
+## GSwitcher · observable Windows systems
 
-[![GSwitcher: local Windows systems utility, with a real application screenshot](assets/gswitcher-card.png)](https://github.com/Kaldx5/GSwitcher)
+<a href="https://github.com/Kaldx5/GSwitcher"><picture><source media="(prefers-reduced-motion: reduce) and (max-width: 650px)" srcset="assets/ember/gswitcher-card.mobile.static.svg"><source media="(max-width: 650px)" srcset="assets/ember/gswitcher-card.mobile.svg"><source media="(prefers-reduced-motion: reduce)" srcset="assets/ember/gswitcher-card.static.svg"><img src="assets/ember/gswitcher-card.svg" width="1200" alt="GSwitcher project interface previews with example system state."></picture></a>
 
-**From a hot laptop to a systems project.** Manual power tuning became PowerShell scripts, then a menu, and eventually a desktop application. Local controls, diagnostics and recovery, with GPU-route observation and investigation kept distinct from reliable switching.
+**[GSwitcher](https://github.com/Kaldx5/GSwitcher)** From thermal troubleshooting to a local systems utility.
 
-[Explore source](https://github.com/Kaldx5/GSwitcher/tree/main/source/GSwitcher.Desktop) · [Read the engineering decisions](https://github.com/Kaldx5/GSwitcher)
+- Power & processor configuration
+- Diagnostics, recovery & automation
+- GPU-route observation and control-path R&D
 
-[![DDDS: driver drowsiness detection, showing a project capture](assets/ddds-card.png)](https://github.com/Kaldx5/DDDS)
+Built from manual power and thermal investigation into PowerShell workflows and a C#/WPF utility. GPU-route R&D is distinct from reliable MUX switching. The images are interface previews with example states, not live hardware measurements.
 
-**Perception under real-time constraints.** My graduation project combines computer vision, driver monitoring and TinyML exploration. Developed and presented at Istanbul Okan University, with a final grade of **AA**.
+## DDDS · local computer vision
 
-[Explore DDDS](https://github.com/Kaldx5/DDDS) · [Public acceptance test report](https://github.com/Kaldx5/DDDS-Acceptance-Test-Report)
+<a href="https://github.com/Kaldx5/DDDS"><picture><source media="(prefers-reduced-motion: reduce) and (max-width: 650px)" srcset="assets/ember/ddds-card.mobile.static.svg"><source media="(max-width: 650px)" srcset="assets/ember/ddds-card.mobile.svg"><source media="(prefers-reduced-motion: reduce)" srcset="assets/ember/ddds-card.static.svg"><img src="assets/ember/ddds-card.svg" width="1200" alt="DDDS driver drowsiness detection project capture and evidence."></picture></a>
 
-[![NIBRAS: market information, connectivity and trust, showing an Arabic real-device capture](assets/nibras-card.png)](https://github.com/Kaldx5/NIBRAS-Showcase)
+**[DDDS](https://github.com/Kaldx5/DDDS)** Perception under real-time and hardware constraints.
 
-**Useful information when connectivity is unreliable.** Local market information, trust in the data, maps and an Arabic interface. The public showcase is a small glimpse into the wider project, which remains private and in development. 🌍
+- Computer vision & TinyML exploration
+- Graduation project / final grade AA
+- 11 of 14 acceptance checks passed
 
-[Real-device gallery](https://kaldx5.github.io/NIBRAS-Showcase/) · [Selected design studies](https://kaldx5.github.io/NIBRAS-Showcase/design/) · [Project guide](https://github.com/Kaldx5/NIBRAS-Showcase/blob/main/docs/NIBRAS-Public-Showcase.pdf)
+11/14 is acceptance-check coverage, not model accuracy. [Acceptance report](https://github.com/Kaldx5/DDDS-Acceptance-Test-Report).
 
-<details>
-<summary>More of NIBRAS, in pictures</summary>
+## NIBRAS · offline-first market information
 
-Selected design studies alongside the real-device captures. The design studies contain demonstration data.
+<a href="https://github.com/Kaldx5/NIBRAS-Showcase"><picture><source media="(prefers-reduced-motion: reduce) and (max-width: 650px)" srcset="assets/ember/nibras-card.mobile.static.svg"><source media="(max-width: 650px)" srcset="assets/ember/nibras-card.mobile.svg"><source media="(prefers-reduced-motion: reduce)" srcset="assets/ember/nibras-card.static.svg"><img src="assets/ember/nibras-card.svg" width="1200" alt="NIBRAS development captures of Arabic market dashboard and Daraa map with demonstration data."></picture></a>
 
-[<img src="https://raw.githubusercontent.com/Kaldx5/NIBRAS-Showcase/main/assets/design/offline.png" width="260" alt="NIBRAS offline design study with demonstration data">](https://kaldx5.github.io/NIBRAS-Showcase/design/screens/offline.html)
-[<img src="https://raw.githubusercontent.com/Kaldx5/NIBRAS-Showcase/main/assets/design/trust_transparency.png" width="260" alt="NIBRAS trust design study with demonstration data">](https://kaldx5.github.io/NIBRAS-Showcase/design/screens/trust_transparency.html)
+**[NIBRAS](https://github.com/Kaldx5/NIBRAS-Showcase)** Useful information when connectivity is unreliable.
 
-[Explore all eight studies](https://kaldx5.github.io/NIBRAS-Showcase/design/)
+- Offline-first system design
+- Arabic experience, maps & data trust
+- Private project / public showcase
 
-</details>
+A public showcase of a wider project in development. The map and dashboard are development captures; visible prices and counts are demonstration values.
 
-## How I work 🔍
+## How I approach problems
 
-![My engineering loop: understand the problem, experiment, verify the result, improve and repeat](assets/engineering-loop.png)
+<picture><source media="(prefers-reduced-motion: reduce) and (max-width: 650px)" srcset="assets/ember/engineering-loop.mobile.static.svg"><source media="(max-width: 650px)" srcset="assets/ember/engineering-loop.mobile.svg"><source media="(prefers-reduced-motion: reduce)" srcset="assets/ember/engineering-loop.static.svg"><img src="assets/ember/engineering-loop.svg" width="1200" alt="engineering loop"></picture>
 
-I like work that gives me something worth digging into and a chance to turn that understanding into a useful result.
+## Connected interests
 
-<details>
-<summary>A little more about my process</summary>
+<picture><source media="(prefers-reduced-motion: reduce) and (max-width: 650px)" srcset="assets/ember/interest-map.mobile.static.svg"><source media="(max-width: 650px)" srcset="assets/ember/interest-map.mobile.svg"><source media="(prefers-reduced-motion: reduce)" srcset="assets/ember/interest-map.static.svg"><img src="assets/ember/interest-map.svg" width="1200" alt="interest map"></picture>
 
-I take an active role in the research, planning, design, implementation, and review of my projects. I'm comfortable using AI and coding tools, and bring them in when they help me explore an idea, speed up a task, or work through a difficult part. The decisions still need to make sense to me.
+Agentic systems and quantum computing are exploratory interests, not research credentials or completed products.
 
-</details>
+## Tools used in these projects
 
-## What draws my curiosity ⚙️
+<picture><source media="(prefers-reduced-motion: reduce) and (max-width: 650px)" srcset="assets/ember/toolkit.mobile.static.svg"><source media="(max-width: 650px)" srcset="assets/ember/toolkit.mobile.svg"><source media="(prefers-reduced-motion: reduce)" srcset="assets/ember/toolkit.static.svg"><img src="assets/ember/toolkit.svg" width="1200" alt="toolkit"></picture>
 
-![Interests: Applied AI, computer vision and edge AI; systems, hardware/software integration and R&D; exploring agentic systems and quantum computing](assets/interest-map.png)
+These are project technologies and interfaces, not equal proficiency claims in every item.
 
-**Applied AI · Computer Vision · TinyML / Edge AI · Systems R&D · Hardware/software integration**
+## Public GitHub snapshot
 
-Also exploring **agentic systems** and **quantum computing**. These are interests I'm developing, alongside the work shown above.
+<picture><source media="(prefers-reduced-motion: reduce) and (max-width: 650px)" srcset="assets/ember/activity.mobile.static.svg"><source media="(max-width: 650px)" srcset="assets/ember/activity.mobile.svg"><source media="(prefers-reduced-motion: reduce)" srcset="assets/ember/activity.static.svg"><img src="assets/ember/activity.svg" width="1200" alt="activity"></picture>
 
-<details>
-<summary>Tools used across these projects</summary>
+Captured 2026-09-27T22:48:37.773131+00:00. Counts describe public work and GitHub-visible contributions, not professional experience.
 
-| Project | Selected technologies and interfaces |
-| :--- | :--- |
-| DDDS | Python, OpenCV, MediaPipe; TensorFlow Lite / edge-AI exploration |
-| GSwitcher | C#, WPF, PowerShell, WebView2, Windows APIs, WMI |
-| NIBRAS | Flutter / Dart, Python / FastAPI, SQLite; offline-first system design |
-
-These describe the projects' technology stacks, rather than a proficiency score for every tool.
-
-</details>
+<picture><source media="(prefers-reduced-motion: reduce) and (max-width: 650px)" srcset="assets/ember/footer.mobile.static.svg"><source media="(max-width: 650px)" srcset="assets/ember/footer.mobile.svg"><source media="(prefers-reduced-motion: reduce)" srcset="assets/ember/footer.static.svg"><img src="assets/ember/footer.svg" width="1200" alt="footer"></picture>
