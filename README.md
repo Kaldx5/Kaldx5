@@ -16,9 +16,13 @@ This started with my Dell G16 running hotter and more aggressively than I expect
 
 My university graduation project, bringing together computer vision, TinyML, and real-time driver monitoring. Developed and presented at Istanbul Okan University, with a final grade of **AA**. The [acceptance test report](https://github.com/Kaldx5/DDDS-Acceptance-Test-Report) is also public.
 
-**NIBRAS / SMPI**
+**[NIBRAS / نِبراس](https://github.com/Kaldx5/NIBRAS-Showcase)**
 
-A different problem that pulled me into another world: local market information, unreliable connectivity, and trust in the data. I'm developing the project around those constraints, alongside its maps and Arabic interface. I'll share selected parts as I prepare them for public release. 🌍
+A different problem that pulled me into another world: local market information, unreliable connectivity, and trust in the data. I'm developing the project around those constraints, alongside its maps and Arabic interface. The public showcase is a small glimpse into the depth and scale of the wider project, which remains private. 🌍
+
+[View real-device captures](https://kaldx5.github.io/NIBRAS-Showcase/) · [Explore selected design screens](https://kaldx5.github.io/NIBRAS-Showcase/design/)
+
+<img src="https://raw.githubusercontent.com/Kaldx5/NIBRAS-Showcase/main/assets/05_dashboard_dark.jpeg" width="180" alt="NIBRAS real-device dashboard"> <img src="https://raw.githubusercontent.com/Kaldx5/NIBRAS-Showcase/main/assets/10_atlas_map_daraa.jpeg" width="180" alt="NIBRAS real-device atlas">
 
 ## How I approach a project 🔍
 
@@ -31,3 +35,6 @@ I like work that gives me something worth digging into and a chance to turn that
 **Currently interested in:** Applied AI, Computer Vision, TinyML / Edge AI, agentic systems, hardware/software integration, and exploring quantum computing. ⚙️
 
 [Find me on LinkedIn](https://www.linkedin.com/in/khaled-alrefai-668079273/) · [Browse my projects](https://github.com/Kaldx5?tab=repositories)
+## Quick routes 📂
+
+[GSwitcher source](https://github.com/Kaldx5/GSwitcher/tree/main/source/GSwitcher.Desktop) · [DDDS](https://github.com/Kaldx5/DDDS) · [NIBRAS showcase](https://github.com/Kaldx5/NIBRAS-Showcase) · [NIBRAS visual gallery](https://kaldx5.github.io/NIBRAS-Showcase/)
