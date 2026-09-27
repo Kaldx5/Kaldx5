@@ -1,31 +1,33 @@
-# Khaled Alrefai
+# Hi, I'm Khaled 👋
 
-### I learn deeply, connect disciplines, and turn ideas into working systems.
+I'm a Computer Engineering graduate who likes getting to the bottom of things.
 
-I'm a Computer Engineering graduate and a self-directed builder. My projects begin with a problem I want to understand: I study the background, explore the constraints, connect ideas across fields, and shape a practical solution.
+Most of my projects start with a problem I want to understand. That usually sends me into a subject I haven't worked with deeply before. I read, experiment, question what I'm seeing, and keep going until I can build something useful with it.
 
-I work across software, hardware, applied AI, and product design. What ties my work together is the way I approach unfamiliar problems—through independent learning, careful planning, experimentation, and iteration.
+That has taken me from computer vision and TinyML to Windows power management, hardware behavior, market intelligence, and product design. I enjoy moving between these fields and finding connections I can actually use. 🧠
 
-**I use AI assistants and agents openly in my workflow.** I lead the research, problem framing, design, and technical decisions; direct implementation; review outputs; and refine the result. My portfolio shows both the systems I build and the thinking behind them.
+## What I've been building 🛠️
 
-## Selected work
+**[GSwitcher](https://github.com/Kaldx5/GSwitcher)**
 
-| Project | What it brings together | Explore |
-| --- | --- | --- |
-| **GSwitcher** | Windows integration, hardware constraints, power and thermal controls, and a compact desktop experience. | [Source & project story](https://github.com/Kaldx5/GSwitcher) |
-| **DDDS — Driver Drowsiness Detection System** | Computer vision, TinyML exploration, real-time alerts, and system design. My university graduation project, evaluated with a final grade of AA. | [Final project](https://github.com/Kaldx5/DDDS) · [Acceptance report](https://github.com/Kaldx5/DDDS-Acceptance-Test-Report) |
+This started with my Dell G16 running hotter and more aggressively than I expected during everyday use. Manual power tuning became PowerShell scripts, then a small menu, and eventually a desktop application. The repository shares the source and the decisions behind it.
 
-**Also developing:** NIBRAS / SMPI, connecting market intelligence, geospatial thinking, Arabic interface design, and systems planning. Public case studies will be added as selected material is prepared for sharing.
+**[DDDS: Driver Drowsiness Detection System](https://github.com/Kaldx5/DDDS)**
 
-## How I work
+My university graduation project, bringing together computer vision, TinyML, and real-time driver monitoring. Developed and presented at Istanbul Okan University, with a final grade of **AA**. The [acceptance test report](https://github.com/Kaldx5/DDDS-Acceptance-Test-Report) is also public.
 
-1. **Understand:** read, research, and identify the actual problem and constraints.
-2. **Connect:** bring useful ideas from different disciplines into a coherent design.
-3. **Build:** direct tools and AI-assisted implementation, with focused manual work.
-4. **Review:** inspect behavior, challenge assumptions, correct issues, and document what the system does.
+**NIBRAS / SMPI**
 
-My strongest contribution is learning what a problem requires and carrying it through to a concrete result. I welcome opportunities where that combination of curiosity, technical judgment, and practical execution is useful.
+A different problem that pulled me into another world: local market information, unreliable connectivity, and trust in the data. I'm developing the project around those constraints, alongside its maps and Arabic interface. I'll share selected parts as I prepare them for public release. 🌍
 
-**Interests:** applied AI · TinyML and Edge AI · agentic systems · hardware/software integration · product design · exploring quantum computing.
+## How I approach a project 🔍
 
-[LinkedIn](https://www.linkedin.com/in/khaled-alrefai-668079273/) · [Projects](https://github.com/Kaldx5?tab=repositories)
+Understand the problem. Learn what I don't know. Try an idea. Look closely at the result. Improve it and repeat.
+
+I take an active role in the research, planning, design, implementation, and review of my projects. I'm comfortable using AI and coding tools, and bring them in when they help me explore an idea, speed up a task, or work through a difficult part. The decisions still need to make sense to me.
+
+I like work that gives me something worth digging into and a chance to turn that understanding into a useful result.
+
+**Currently interested in:** Applied AI, Computer Vision, TinyML / Edge AI, agentic systems, hardware/software integration, and exploring quantum computing. ⚙️
+
+[Find me on LinkedIn](https://www.linkedin.com/in/khaled-alrefai-668079273/) · [Browse my projects](https://github.com/Kaldx5?tab=repositories)
